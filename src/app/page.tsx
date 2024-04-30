@@ -62,7 +62,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Get the exact Cashback you will receive on your transaction on SBI
-          Cashback Card.
+          Cashback Card..
         </p>
       </div>
       <div className={styles.center}>
